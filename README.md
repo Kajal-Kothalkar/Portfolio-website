@@ -48,5 +48,5 @@ Local certificate preview modal
 
 👩‍💻 Developed by
 
-Kajal Kothalkar
+Kajal Kothalkar|
 Aspiring Full Stack Developer | AI/ML Enthusiast
